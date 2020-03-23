@@ -1,0 +1,7 @@
+db.mylist.insert({ text: "Hello world!", createdAt: new Date() });
+db.mylist.find()
+db.mylist.find().pretty()
+db.mylist.remove({"_id" : ObjectId("5bdad408638ae2b238b0b835")})
+db.mylist.find().pretty()
+db.mylist.insert({ text: "Hello world!", createdAt: new Date() });
+db.mylist.find().pretty()
