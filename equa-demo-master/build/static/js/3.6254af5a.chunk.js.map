@@ -1,0 +1,1 @@
+{"version":3,"sources":["modules/startupScreen/index.ts"],"names":["StartUpScreen"],"mappings":"sHAAA,oBAEeA,YAAf","file":"static/js/3.6254af5a.chunk.js","sourcesContent":["import StartUpScreen from './StartUpScreen'\n\nexport default StartUpScreen\n"],"sourceRoot":""}
