@@ -35,7 +35,7 @@
     "formik": "^2.0.6",
     "history": "^4.10.1",
     "material-ui-pickers": "^2.2.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "polished": "^3.4.4",
     "prettier": "^1.19.1",
     "react": "^16.12.0",
